@@ -12,6 +12,6 @@ Notera att allt på denna sida är generella rekommendationer. Det kan finnas fa
 
 ## Suggestions
 
-Redigera och skapa en pull request av det berörda dokumentet i /docs.  
+Redigera och skapa en pull request av det berörda dokumentet i [/docs](docs/).  
 När förslaget är klart kommer en omröstning skapas på discord om huruvida rekommendationen ska godkännas.
 - [Discord Meshcore Nordöstra Skåne](https://discord.gg/jXhWGHyTDX)
