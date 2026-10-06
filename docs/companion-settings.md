@@ -1,0 +1,1 @@
+docs/companion-settings.md
