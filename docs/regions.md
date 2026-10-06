@@ -56,3 +56,7 @@ region save
 Mer information om regioner kan du läsa om här.
 
 [MeshCore regions – meshat.se](https://meshat.se/meshcore/regioner)
+
+---
+
+[← Tillbaka till förstasidan](../README.md)
