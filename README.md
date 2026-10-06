@@ -1,5 +1,7 @@
 # Meshcore Nordöstra Skåne
 
+Rekommenderade inställningar vid användande av Meshcore.
+
 ## Dokumentation
 
 - [Inställningar för repeater](docs/repeater-settings.md)
