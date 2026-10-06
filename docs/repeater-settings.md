@@ -63,7 +63,3 @@ Starta om efter att alla inställningar angetts.
 ```text
 reboot
 ```
-
-powersaving on
-reboot
-```
