@@ -64,3 +64,7 @@ Starta om efter att alla inställningar angetts.
 ```text
 reboot
 ```
+
+---
+
+[← Tillbaka till förstasidan](../README.md)
