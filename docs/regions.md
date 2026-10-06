@@ -16,7 +16,7 @@ Det är rekommenderat att lägga in angränsande läns regioner för att underl�
 | `se10` | Blekinge län | |
 | `se12` | Skåne län | |
 | `se13` | Hallands län | |
-| `oresund` | Öresundsregionen | Kan vara bara att ha på backbone repeaters |
+| `oresund` | Öresundsregionen | Bara om denna finns på backbone repeaters |
 | `dk` | Danmark | Danskarna önskar att vi har denna i alla fall på backbone repeaters för att underlätta deras kommunikation till Bornholm |
 | `offgrid` | Experimentiell | Använd på noder som kan drivas på batteri under längre tid. Möjliggör tester av hur meddelande kommer kunna skickas vid strömavbrott |
 
