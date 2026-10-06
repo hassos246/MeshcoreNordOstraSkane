@@ -1,1 +1,1 @@
-docs/companion-settings.md
+Work in progress.
