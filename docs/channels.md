@@ -6,7 +6,6 @@ Kanaler som kan vara intressanta att ha.
 |---|---|---|
 | Public | — | Public channel. |
 | `#europe` | `europe` | General channel for EU-wide traffic. |
-| `#eu` | `eu` | General channel for EU-wide traffic. |
 | `#sverige` | `se` | Channel for traffic within Sweden. |
 | `#skane` | `se12` | Channel for traffic within Skåne. |
 | `#blekinge` | `se10` | Channel for traffic within Blekinge. |
