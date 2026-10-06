@@ -8,7 +8,6 @@ Kanaler som kan vara intressanta att ha.
 | `#europe` | `eu` | General channel for EU-wide traffic. |
 | `#sverige` | `se` | Channel for traffic within Sweden. |
 | `#skane` | `se12` | Channel for traffic within Skåne. |
-| `#kid` | `se12` | Channel for KID-related traffic within Skåne. |
 | `#blekinge` | `se10` | Channel for traffic within Blekinge. |
 | `#halland` | `se13` | Channel for traffic within Halland. |
 | `#kronoberg` | `se07` | Channel for traffic within Kronoberg. |
