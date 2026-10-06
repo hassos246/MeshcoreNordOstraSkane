@@ -17,13 +17,14 @@ set multi.acks 1
 set loop.detect moderate
 ```
 
-## Advertisements
+## Advertisements and flooding
 
-Skicka advert till repeaters grannar var fjärde timme och advert över hela meshet var 47e timme.
+Skicka advert till repeaters grannar var fjärde timme och advert över hela meshet var 47e timme. Begränsar flood meddelanden utan region till 4 hopp, detta för att avlasta nätet från väldig långväga trafik utan att försvåra för nya användare.
 
 ```text
 set advert.interval 240
 set flood.advert.interval 47
+set flood.max.unscoped 4
 ```
 
 ## Duty cycle
